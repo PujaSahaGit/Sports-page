@@ -1,1 +1,1 @@
-My First **GLSports** Sports Page using Html and Css.
+My First **GLSports** Sports Page using HTML and CSS.
